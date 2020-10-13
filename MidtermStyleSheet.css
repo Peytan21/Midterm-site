@@ -1,0 +1,135 @@
+/* Midterm Style Sheet */
+
+body {
+    background-color: white;
+    padding-top: 25px;   
+}
+
+h1{
+    font-family:'Liu Jian Mao Cao', cursive;
+}
+
+h2{
+    font-family:'Liu Jian Mao Cao', cursive;
+}
+
+
+p{
+font-family: 'Shadows Into Light', cursive;
+}
+
+.row1 {
+    padding: 100px;
+    height: 300px;
+    width: 100%;
+}
+
+.row2{
+    padding:15px;
+    height:300px;
+    width: 100%;
+}
+
+.me.jpeg{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+  
+}
+
+.Harley1.JPG{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+.Harley2.JPG{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+.Harley3.JPG{
+     display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+.BTS1.JPEG{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+.BTS2.PNG{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+.BTS3.jpg{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+.M1.JPG{
+display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+.M2.jpg{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+.M3.jpg{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+
+.T1.jpg{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+..T2.jpg{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+
+.T3.jpg{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    float: right;
+}
+    
+    
+.footer{
+    height: 100px;
+    background-color: #DEC6ED;
+    margin-top: 50px;
+}
+
+.footer h3{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Liu Jian Mao Cao', cursive;
+}
